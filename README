@@ -13,6 +13,10 @@ HOW TO OBTAIN THE PROGRAM
     To download the latest version of geno-miRNA you can visit the GIT website:
     
     https://github.com/LenaWannemacher/geno-miRNA.git
+    
+    You can also clone the lastest version off the GIT server:
+    
+    git clone https://github.com/LenaWannemacher/geno-miRNA.git
 
 HOW TO USE THE PROGRAM
 
