@@ -38,11 +38,9 @@ CONFIG.json
     - scaling_factor:   The scaling factor for the first eleven position. This is a float type.
     - threshold:    The points threshold for an alignment.
     - token_size:   The length of the ”word” that is searched in the genome.
-    - overhang:     The length of the overhang of the DNA sequence around a match.
-    - wobble_region:    Can be 0 or 1. If this value is set to 1, the algorithm adds a rule that analyzes the ”wobble region”, 
-                                       i.e. evaluates the sequence from position six to twelve. No mismatches are then allowed
-                                       in this region.
-    - output_alignment: Can be 0 or 1. If set to 1, the program will
-                                       produce the alignment output files.
-    - output_statistics:    Can be 0 or 1. If set to 1, the program will
-                                           produce the statistic tables.
+    - overhang:     The length of the overhang of the DNA sequence around a match.  
+    - wobble_region:    Can be 0 or 1. If this value is set to 1, the algorithm adds a rule that analyzes 
+                        the ”wobble region”, i.e. evaluates the sequence from position six to twelve. 
+                        No mismatches are then allowed in this region.                        
+    - output_alignment: Can be 0 or 1. If set to 1, the program will produce the alignment output files.
+    - output_statistics:    Can be 0 or 1. If set to 1, the program will produce the statistic tables.
