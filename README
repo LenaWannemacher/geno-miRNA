@@ -22,6 +22,9 @@ HOW TO USE THE PROGRAM
 
     Every variable in the config file can be adjusted to your desire. A detailed explanation on the variables
     is given below.
+    
+    In order to properly use the program, please create a folder "tmp_dir" and "output_dir". The paths of these folders 
+    must be passed to the program as arguments.
 
 CONFIG.json
 
