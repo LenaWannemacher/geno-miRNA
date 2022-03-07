@@ -18,7 +18,7 @@ HOW TO USE THE PROGRAM
 
     The program works as follows:
 
-    --align   miRNA.fa   reference_genome.fa   gene_annotation.gff3   config.json   tmp_file_location   output_file_location
+    --align   miRNA.fa   reference_genome.fa   gene_annotation.gff3   config.json   tmp_dir_location   output_dir_location
 
     Every variable in the config file can be adjusted to your desire. A detailed explanation on the variables
     is given below.
