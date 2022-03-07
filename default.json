@@ -1,0 +1,14 @@
+{
+  "match" : 5,
+  "g_u_wobble" : 2,
+  "penalty" : -3,
+  "gap_open_pen" : -8,
+  "gap_ext_pen" : -2,
+  "scaling_factor" : 2.0,
+  "threshold" : 95,
+  "token_size" : 6,
+  "overhang": 3,
+  "wobble_region": 0,
+  "output_alignment": 1,
+  "output_statistics": 1
+}
